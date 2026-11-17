@@ -17,7 +17,7 @@ Through practical experiments using Kali Linux and Windows 11 virtual machines, 
 
 | Lab | Experiment | Status |
 |---|---|---|
-| 01 | [Network Connectivity & Windows Firewall Configuration](Lab-01-Network-Connectivity/) | ✅ Completed |
+| 01 | [Network Connectivity & Windows Firewall Configuration](Lab-01/) | ✅ Completed |
 
 ## 🔬 Areas of Exploration
 
