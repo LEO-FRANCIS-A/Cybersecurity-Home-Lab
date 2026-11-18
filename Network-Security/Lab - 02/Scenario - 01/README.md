@@ -153,11 +153,11 @@ The SSH firewall rule applied only to the `Private` profile.
 
 Before chaning into Private 
       
-      ![Windows Network Profiles](screenshots/network-profile1.png)
+![Windows Network Profiles](screenshots/network-profile1.png)
 
 After changing into Private
 
-      ![Windows Network Profiles](screenshots/network-profile2.png)
+![Windows Network Profiles](screenshots/network-profile2.png)
 
 
 Changed only the Host-Only interface to Private:
