@@ -79,14 +79,14 @@ The experiment is divided into eight scenarios. Each scenario focuses on a diffe
 
 | Scenario | Investigation | Status |
 |---|---|---|
-| 01 | [Establishing the SSH Environment](Scenario-01-SSH-Environment/) | 🟡 In Progress |
-| 02 | [Normal Activity & Monitoring Baseline](Scenario-02-Normal-Activity-Baseline/) | ⬜ Not Started |
-| 03 | [Simulating Suspicious Remote Activity](Scenario-03-Suspicious-Remote-Activity/) | ⬜ Not Started |
-| 04 | [Windows Endpoint Investigation](Scenario-04-Windows-Investigation/) | ⬜ Not Started |
-| 05 | [Network Traffic Investigation — Wireshark](Scenario-05-Wireshark-Traffic-Analysis/) | ⬜ Not Started |
-| 06 | [Failed Authentication Attempts](Scenario-06-Failed-Authentication/) | ⬜ Not Started |
-| 07 | [Defensive Hardening](Scenario-07-Defensive-Hardening/) | ⬜ Not Started |
-| 08 | [Validation & Retesting](Scenario-08-Validation/) | ⬜ Not Started |
+| 01 | [Establishing the SSH Environment](Scenario%20-%2001/) | 🟢 Completed |
+| 02 | [Normal Activity & Monitoring Baseline](Scenario%20-%2002/) | 🟢 Completed |
+| 03 | [Simulating Suspicious Remote Activity] | ⬜ Not Started |
+| 04 | [Windows Endpoint Investigation] | ⬜ Not Started |
+| 05 | [Network Traffic Investigation — Wireshark] | ⬜ Not Started |
+| 06 | [Failed Authentication Attempts] | ⬜ Not Started |
+| 07 | [Defensive Hardening] | ⬜ Not Started |
+| 08 | [Validation & Retesting] | ⬜ Not Started |
 
 ---
 
